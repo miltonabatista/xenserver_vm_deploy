@@ -1,0 +1,5 @@
+[local]
+localhost ansible_python_interpreter=/usr/local/opt/python/libexec/bin/python
+
+[xenservers]
+192.168.17.19
